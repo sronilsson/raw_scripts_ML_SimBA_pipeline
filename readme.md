@@ -1,4 +1,4 @@
-### Some back-end scripts for SimBA
+### some back-end scripts for SimBA
 ##### Check [SimBA repo](https://github.com/sgoldenlab/simba) for documentation. 
 * Generates learning curves, precision-recall curves, precision/recall/f1 curves. 
 * Performs [random undersampling](https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.under_sampling.RandomUnderSampler.html) / [SMOTE](https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.over_sampling.SMOTE.html) / [SMOTEENN](https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.combine.SMOTEENN.html)
