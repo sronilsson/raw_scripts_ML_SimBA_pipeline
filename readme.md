@@ -5,5 +5,5 @@
 * [Corrects outliers](https://github.com/sgoldenlab/simba/blob/master/misc/Outlier_settings.pdf) based on user-defined criteria. 
 * Calculates [gini impurity importance's](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html) and [permutation importance's](https://scikit-learn.org/stable/modules/permutation_importance.html)
 
-![alt-text-1](images/image1.jpg "Touchscreen operant box version 1") ![alt-text-1](images/image2.jpg "Touchscreen operant box version 2")
-![alt-text-1](images/image3.jpg "Touchscreen operant box version 1") ![alt-text-1](images/image4.jpg "Touchscreen operant box version 2")
+![alt-text-1](images/Image1.jpg "Touchscreen operant box version 1") ![alt-text-1](images/Image2.jpg "Touchscreen operant box version 2")
+![alt-text-1](images/Image3.jpg "Touchscreen operant box version 1") ![alt-text-1](images/Image4.jpg "Touchscreen operant box version 2")
